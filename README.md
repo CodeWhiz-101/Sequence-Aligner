@@ -19,7 +19,7 @@ A simple Python GUI application for performing **pairwise sequence alignment** (
 
 ## 📸 Preview
 
-(screenshot.png)  
+screenshot.png  
 <sub>Add your own screenshot here!</sub>
 
 ---
